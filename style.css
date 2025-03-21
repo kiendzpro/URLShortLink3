@@ -1,0 +1,228 @@
+/* ======= Google Font for a Fun, Cute Look ======= */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap');
+
+/* ======= Reset Default Styles ======= */
+body, h1, h2, h3, h4, h5, h6, p, table, input, button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Fredoka', sans-serif;
+}
+
+/* ======= Fun Pastel Background with Cute Icons ======= */
+body {
+    background: linear-gradient(135deg, #E4C1F9, #FFC8DD, #FFAFCC), 
+                url('https://source.unsplash.com/1600x900/?cute,cartoon,clouds,stars');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #4A4A4A;
+    text-align: center;
+    padding: 20px;
+}
+
+/* ======= Floating Animation ======= */
+@keyframes float {
+    from {
+        transform: translateY(0px);
+    }
+    to {
+        transform: translateY(10px);
+    }
+}
+
+/* ======= Login Box (Top Right) ======= */
+.auth-box {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+}
+
+/* ======= Heading Style ======= */
+h2 {
+    font-size: 3em;
+    color: #6A0572;
+    text-shadow: 2px 2px 8px rgba(255, 200, 221, 0.7);
+    margin-bottom: 25px;
+}
+
+/* ======= Form & Button Containers ======= */
+.link-box, .short-link-container, .name-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+/* Align "Save" and "Copy" buttons in the same row */
+.short-link-container {
+    justify-content: center;
+    align-items: center;
+}
+
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+
+/* ======= Input Field Styling ======= */
+.box {
+    width: 45%;
+    padding: 12px;
+    border: 2px solid #FFAFCC;
+    border-radius: 12px;
+    font-size: 16px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.4);
+    color: #6A0572;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Input field focus effect */
+.box:focus {
+    border-color: #E4C1F9;
+    box-shadow: 0px 0px 15px rgba(228, 193, 249, 0.9);
+}
+
+/* ======= Shortened Link Styling ======= */
+.short-link {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FF7096;
+    text-decoration: none;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+    backdrop-filter: blur(6px);
+}
+
+.short-link:hover {
+    background-color: rgba(255, 255, 255, 0.6);
+    text-decoration: underline;
+}
+
+/* ======= Button Styles with Cute Icons ======= */
+button {
+    background: linear-gradient(45deg, #FFC8DD, #FFAFCC);
+    color: #6A0572;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 5px 12px rgba(255, 175, 204, 0.5);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Button hover effect */
+button:hover {
+    background: linear-gradient(45deg, #FFAFCC, #FFC8DD);
+    transform: scale(1.08);
+    box-shadow: 0px 5px 20px rgba(255, 175, 204, 0.8);
+}
+
+/* Button active (click) effect */
+button:active {
+    transform: scale(0.95);
+}
+
+/* Button icons */
+button:nth-child(1)::before {
+    content: "✨"; /* Magic sparkle for "Shorten URL" */
+}
+
+button:nth-child(2)::before {
+    content: "📋"; /* Clipboard icon for "Copy" */
+}
+
+button:nth-child(3)::before {
+    content: "💾"; /* Save icon */
+}
+
+/* ======= Table Styling ======= */
+table {
+    width: 90%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 5px 15px rgba(255, 175, 204, 0.3);
+    backdrop-filter: blur(10px);
+}
+
+/* Table Headers */
+th {
+    background-color: rgba(255, 200, 221, 0.7);
+    color: #4A4A4A;
+    padding: 15px;
+    font-size: 18px;
+}
+
+/* Table Rows */
+td {
+    padding: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    text-align: center;
+    font-size: 16px;
+    color: #FF7096;
+}
+
+/* Table Hover Effect */
+tr:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+/* ======= Clickable Table Links ======= */
+a {
+    color: #FF7096;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ======= Table Button ======= */
+.table-button {
+    background: linear-gradient(45deg, #FFAFCC, #FFC8DD);
+    color: white;
+    padding: 8px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+.table-button:hover {
+    background: linear-gradient(45deg, #FF7096, #E4C1F9);
+    transform: scale(1.05);
+}
+
+/* ======= Mobile Responsiveness ======= */
+@media (max-width: 768px) {
+    .box {
+        width: 80%;
+    }
+    
+    table {
+        width: 95%;
+    }
+    
+    .link-box, .short-link-container, .name-box {
+        flex-direction: column;
+    }
+
+    .button-group {
+        flex-direction: column;
+        gap: 8px;
+    }
+}

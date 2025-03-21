@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\URL\bin\Debug\net8.0\URL.exe
+C:\Users\ADMIN\source\repos\URL\bin\Debug\net8.0\URL.dll
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\URL\obj\Debug\net8.0\URL.RazorAssemblyInfo.cs

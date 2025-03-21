@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  url-shortener:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+    ports:
+      - "5000:80"
+    volumes:
+      - ./URL:/app
+    entrypoint: dotnet watch run --urls=http://+:80
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: build 

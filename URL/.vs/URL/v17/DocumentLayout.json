@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\bao sv\\2133\\amd201\\url\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C72D0-B2C1-4D06-8C36-22BF8E176296}|URL.csproj|solutionrelative:models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T16:00:47.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrlShortenerService.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Services\\UrlShortenerService.cs",
+              "RelativeDocumentMoniker": "Services\\UrlShortenerService.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Services\\UrlShortenerService.cs",
+              "RelativeToolTip": "Services\\UrlShortenerService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:49:01.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrlShortenerController.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Controllers\\UrlShortenerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrlShortenerController.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Controllers\\UrlShortenerController.cs",
+              "RelativeToolTip": "Controllers\\UrlShortenerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA6wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:36:47.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "Data\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:23:01.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:22:55.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:18:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T03:48:53.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShortUrl.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Models\\ShortUrl.cs",
+              "RelativeDocumentMoniker": "Models\\ShortUrl.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\bao sv\\2133\\AMD201\\URL\\Models\\ShortUrl.cs",
+              "RelativeToolTip": "Models\\ShortUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:49:08.422Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

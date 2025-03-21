@@ -1,0 +1,166 @@
+﻿@{
+    ViewData["Title"] = "URL Shortener Project";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <div class="auth-box">
+        <button onclick="toggleLogin()">Login</button>
+    </div>
+
+    <h2>URL Shortener</h2>
+
+    <!-- Shorten URL Form -->
+    <form method="post" asp-action="Shorten" onsubmit="return validateUrl()">
+        <div class="link-box">
+            <input type="url" name="originalUrl" id="originalUrl" placeholder="Enter your long URL here" class="box" required />
+            <button type="submit">Shorten URL</button>
+        </div>
+        <p id="urlError" style="color: red; display: none;">Please enter a valid URL.</p>
+    </form>
+
+    <!-- After the form section and before the short link display -->
+    @if (!string.IsNullOrEmpty(ViewBag.Error))
+    {
+        <div class="error-message">
+            <p>@ViewBag.Error</p>
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div class="success-message">
+            <p>@ViewBag.Message</p>
+        </div>
+    }
+
+    <!-- Display Shortened Link -->
+    @if (ViewBag.ShortUrl != null)
+    {
+        <div class="short-link-container">
+            <div class="short-link-box">
+                <p><strong>User Link:</strong> <a id="userLink" href="@ViewBag.OriginalUrl" target="_blank">@ViewBag.OriginalUrl</a></p>
+                <p><strong>Shortened Link:</strong> <a id="shortLink" href="@ViewBag.ShortUrl" target="_blank">@ViewBag.ShortUrl</a></p>
+            </div>
+            <div class="button-group">
+                <button onclick="copyToClipboard('shortLink')">Copy</button>
+                <button onclick="showNameInput()">Save</button>
+            </div>
+        </div>
+    }
+
+    <!-- Name Input (Hidden Until Save is Clicked) -->
+    <div id="nameInputContainer" style="display: none;">
+        <input type="text" id="linkName" placeholder="Enter a name for this link" class="box" />
+        <button onclick="saveLink()">Confirm Save</button>
+    </div>
+
+    <!-- Shortened Links Table -->
+    <table id="linkTable" style="display: none;">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Name</th>
+                <th>User Link</th>
+                <th>Shortened Link</th>
+                <th>Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="linkTableBody">
+            <!-- New links will be added dynamically -->
+        </tbody>
+    </table>
+
+    <script src="~/js/site.js"></script>
+
+    <script>
+        function validateUrl() {
+            var urlInput = document.getElementById("originalUrl").value;
+            var errorMessage = document.getElementById("urlError");
+
+            //var urlPattern = /^(https?:\/\/)?([\w.-]+)\.([a-z]{2,6})([\/\w.-]*)*\/?$/;
+            var urlPattern = /^(https?:\/\/)?([\w.-]+)\.([a-z]{2,6})([\/\w.-]*)*(\?[^\s]*)?$/;
+
+
+            if (!urlPattern.test(urlInput)) {
+                errorMessage.style.display = "block";
+                return false; // Prevent form submission
+            }
+
+            errorMessage.style.display = "none";
+            return true;
+        }
+
+        function copyToClipboard(linkId) {
+            var linkElement = document.getElementById(linkId);
+            if (!linkElement) {
+                alert("No link found to copy!");
+                return;
+            }
+
+            var tempInput = document.createElement("input");
+            tempInput.value = linkElement.href;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+
+            alert("Copied: " + linkElement.href);
+        }
+
+        function showNameInput() {
+            document.getElementById("nameInputContainer").style.display = "block";
+        }
+
+        function saveLink() {
+            var linkName = document.getElementById("linkName").value;
+            var originalUrl = document.getElementById("userLink").href;
+            var shortUrl = document.getElementById("shortLink").href;
+
+            if (!linkName.trim()) {
+                alert("Please enter a name for the link before saving.");
+                return;
+            }
+
+            var table = document.getElementById("linkTable");
+            var tbody = document.getElementById("linkTableBody");
+
+            // Show table when a link is added
+            table.style.display = "table";
+
+            var row = tbody.insertRow();
+            row.innerHTML = `
+                <td>${tbody.rows.length}</td>
+                <td>${linkName}</td>
+                <td><a href="${originalUrl}" target="_blank">${originalUrl}</a></td>
+                <td><a href="${shortUrl}" target="_blank">${shortUrl}</a></td>
+                <td>${new Date().toLocaleString()}</td>
+                <td><button onclick="deleteRow(this)">Delete</button></td>
+            `;
+
+            // Hide name input after saving
+            document.getElementById("nameInputContainer").style.display = "none";
+        }
+
+        function deleteRow(button) {
+            var row = button.parentElement.parentElement;
+            row.remove();
+
+            // Hide table if empty
+            var table = document.getElementById("linkTable");
+            if (table.rows.length === 1) {
+                table.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,238 @@
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.AssemblyInfo.cs
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.RazorAssemblyInfo.cs
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\appsettings.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\URL.staticwebassets.runtime.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\URL.staticwebassets.endpoints.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\URL.exe
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\URL.deps.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\URL.runtimeconfig.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\URL.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\URL.pdb
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\DnsClient.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Snappier.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\scopedcss\bundle\URL.styles.css
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\scopedcss\projectbundle\URL.bundle.scp.css
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\fi6w454o0j-qj6ccj2oai.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\m6uwnh4iqt-61n19gt1b8.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\fgcrwr3adc-xtxxf3hu2r.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\lxn036z4wo-agp80tu62r.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\zgikkg2l5y-st1cbwfwo5.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\qqtsrxsgts-unj9p35syc.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\snsf6uoebv-5vj65cig9w.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\x3oyyitcon-q2ku51ktnl.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\rj28ysoros-2q4vfeazbq.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\1gw45etd4u-n1oizzvkh6.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\ufa12mebef-o371a8zbv2.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\o3mxd35nb1-7na4sro3qu.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\3oirjtg4sv-jeal3x0ldm.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\4f0lgsiy5c-f8imaxxbri.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\whthi1t0y2-okkk44j0xs.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\25q67yahg7-0wve5yxp74.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\0hmndyk1b1-cwzlr5n8x4.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\hho7b9kfep-npxfuf8dg6.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\nbnzwxiq92-wmug9u23qg.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\jfutweld4s-tey0rigmnh.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\041065odbv-j75batdsum.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\b15htkpyib-16095smhkz.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\xb1hlz9u0h-vy0bq9ydhf.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\x21lmi1he8-b4skse8du6.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\5qfe7e0u30-ab1c3rmv7g.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\wmpkzzweb8-u3xrusw2ol.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\sm3dfpy3ro-56d2bn4wt9.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\lwr2wosqod-mpyigms19s.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\q3q74yand3-73kdqttayv.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\xboo8un71s-bpk8xqwxhs.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\0kotglov0c-8inm30yfxf.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\fq7awa6b88-ve6x09088i.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\3f2f9wwr2x-4gxs3k148c.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\uqaxbnrne3-9b9oa1qrmt.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\yz4h6j8o0m-fctod5rc9n.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\s5zsp1go00-l2av4jpuoj.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\ipjnbdyxja-kbynt5jhd9.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\05cmftmwyy-25iw1kog22.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\v5gc4hz1md-c2nslu3uf3.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\v64qm3jddg-m39kt2b5c9.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\wqz84ttzou-2lgwfvgpvi.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\io64uvxqci-um2aeqy4ik.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\weoqw2fxc0-wsezl0heh6.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\gms4wwn80y-o4kw7cc6tf.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\l8haqh4lvh-6ukhryfubh.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\wl299pbnm3-zwph15dxgs.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\dhob2uh1zv-u33ctipx7g.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\k3f42wnv6a-47otxtyo56.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\z4muyhytmx-4v8eqarkd7.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\zoicou4vlo-356vix0kms.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\6h7674e1hs-ay5nd8zt9x.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\na177z001y-9oaff4kq20.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\0mbu2lx21d-pzqfkb6aqo.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\pial1up7b8-b7iojwaux1.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\hmm81nqup4-x0q3zqp4vz.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\dkq46r27z9-fwhahm2icz.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\on3glo3odj-dd6z7egasc.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\5qolok3rfc-5pze98is44.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\25x8i3jova-mlv21k5csn.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\31wh0wxeoq-qtpnlsj636.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\compressed\etyp26g0vu-qtpnlsj636.gz
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.URL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.URL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.build.URL.props
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.URL.props
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.URL.props
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.csproj.Up2Date
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\refint\URL.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.pdb
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\URL.genruntimeconfig.cache
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\ref\URL.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\source\repos\Lazzy-Team-main\AMD201\URL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\appsettings.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\URL.staticwebassets.endpoints.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\URL.staticwebassets.runtime.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\URL.exe
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\URL.deps.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\URL.runtimeconfig.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\URL.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\URL.pdb
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\DnsClient.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Snappier.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.csproj.AssemblyReference.cache
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.AssemblyInfoInputs.cache
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.AssemblyInfo.cs
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.csproj.CoreCompileInputs.cache
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.RazorAssemblyInfo.cache
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.RazorAssemblyInfo.cs
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\scopedcss\bundle\URL.styles.css
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\scopedcss\projectbundle\URL.bundle.scp.css
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\fi6w454o0j-qj6ccj2oai.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\m6uwnh4iqt-61n19gt1b8.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\fgcrwr3adc-xtxxf3hu2r.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\lxn036z4wo-agp80tu62r.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\zgikkg2l5y-st1cbwfwo5.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\qqtsrxsgts-unj9p35syc.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\snsf6uoebv-5vj65cig9w.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\x3oyyitcon-q2ku51ktnl.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\rj28ysoros-2q4vfeazbq.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\1gw45etd4u-n1oizzvkh6.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\ufa12mebef-o371a8zbv2.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\o3mxd35nb1-7na4sro3qu.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\3oirjtg4sv-jeal3x0ldm.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\4f0lgsiy5c-f8imaxxbri.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\whthi1t0y2-okkk44j0xs.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\25q67yahg7-0wve5yxp74.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\0hmndyk1b1-cwzlr5n8x4.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\hho7b9kfep-npxfuf8dg6.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\nbnzwxiq92-wmug9u23qg.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\jfutweld4s-tey0rigmnh.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\041065odbv-j75batdsum.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\b15htkpyib-16095smhkz.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\xb1hlz9u0h-vy0bq9ydhf.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\x21lmi1he8-b4skse8du6.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\5qfe7e0u30-ab1c3rmv7g.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\wmpkzzweb8-u3xrusw2ol.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\sm3dfpy3ro-56d2bn4wt9.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\lwr2wosqod-mpyigms19s.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\q3q74yand3-73kdqttayv.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\xboo8un71s-bpk8xqwxhs.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\0kotglov0c-8inm30yfxf.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\fq7awa6b88-ve6x09088i.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\3f2f9wwr2x-4gxs3k148c.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\uqaxbnrne3-9b9oa1qrmt.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\yz4h6j8o0m-fctod5rc9n.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\s5zsp1go00-l2av4jpuoj.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\ipjnbdyxja-kbynt5jhd9.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\05cmftmwyy-25iw1kog22.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\v5gc4hz1md-c2nslu3uf3.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\v64qm3jddg-m39kt2b5c9.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\wqz84ttzou-2lgwfvgpvi.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\io64uvxqci-um2aeqy4ik.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\weoqw2fxc0-wsezl0heh6.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\gms4wwn80y-o4kw7cc6tf.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\l8haqh4lvh-6ukhryfubh.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\wl299pbnm3-zwph15dxgs.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\dhob2uh1zv-u33ctipx7g.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\k3f42wnv6a-47otxtyo56.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\z4muyhytmx-4v8eqarkd7.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\zoicou4vlo-356vix0kms.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\6h7674e1hs-ay5nd8zt9x.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\na177z001y-9oaff4kq20.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\0mbu2lx21d-pzqfkb6aqo.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\pial1up7b8-b7iojwaux1.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\hmm81nqup4-x0q3zqp4vz.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\dkq46r27z9-fwhahm2icz.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\on3glo3odj-dd6z7egasc.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\5qolok3rfc-5pze98is44.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\25x8i3jova-mlv21k5csn.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\31wh0wxeoq-qtpnlsj636.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\compressed\etyp26g0vu-qtpnlsj636.gz
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.URL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.URL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.build.URL.props
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.URL.props
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.URL.props
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.csproj.Up2Date
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\refint\URL.dll
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.pdb
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\URL.genruntimeconfig.cache
+C:\Users\kien4\OneDrive\Tài liệu\Main\AMD201\bao sv\2133\AMD201\URL\obj\Debug\net9.0\ref\URL.dll

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Shortener Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Section for login/logout (Aligned to Top-Right) -->
+    <div class="auth-box">
+        <button onclick="toggleLogin()">Login</button>
+    </div>
+
+    <h2>URL Shortener</h2>
+
+    <!-- Section with input box for user to enter a link -->
+    <div class="link-box">
+        <input type="text" id="userLink" placeholder="Enter your long URL here" class="box">
+        <button onclick="addShortLink()">Shorten URL</button>
+    </div>
+
+    <!-- Section to display the short link -->
+    <div class="short-link-container">
+        <div class="short-link-box">
+            <a id="shortLink" class="short-link" href="#" target="_blank">Shortened link will appear here</a>
+        </div>
+        <div class="button-group">
+            <button onclick="copyShortLink()">Copy</button>
+            <button onclick="checkLoginAndShowNameInput()">Save</button>
+        </div>
+    </div>
+
+    <!-- Section for adding name (Initially Hidden) -->
+    <div class="name-box" style="display: none;">
+        <input type="text" id="linkName" placeholder="Enter name for the link" class="box">
+        <button onclick="saveName()">Confirm</button>
+    </div>
+
+    <!-- Table with a numbered list -->
+    <table>
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Name</th>
+                <th>User Link</th>
+                <th>Shortened Link</th>
+                <th>Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="linkTableBody">
+            <!-- New links will be added here dynamically -->
+        </tbody>
+    </table>
+
+    <script>
+        let isLoggedIn = false; // Simulate login status
+        let savedName = ""; // Variable to store the saved name
+        let latestShortUrl = ""; // Store the latest generated short URL
+        let latestUserLink = ""; // Store the latest user inputted link
+
+        function toggleLogin() {
+            isLoggedIn = !isLoggedIn;
+            alert(isLoggedIn ? "You are now logged in!" : "You have logged out.");
+        }
+
+        function addShortLink() {
+            latestUserLink = document.getElementById("userLink").value.trim();
+
+            if (latestUserLink === "") {
+                alert("Please enter a valid URL.");
+                return;
+            }
+
+            // Generate a simulated short URL
+            latestShortUrl = "https://short.ly/" + Math.random().toString(36).substr(2, 6);
+
+            // Display as a clickable link
+            let shortLinkElement = document.getElementById("shortLink");
+            shortLinkElement.href = latestShortUrl;
+            shortLinkElement.innerText = latestShortUrl;
+        }
+
+        function checkLoginAndShowNameInput() {
+            if (!isLoggedIn) {
+                alert("Please log in to save a name for your link.");
+                return;
+            }
+            document.querySelector(".name-box").style.display = "flex";
+        }
+
+        function saveName() {
+            var linkName = document.getElementById("linkName").value.trim();
+            if (linkName === "") {
+                alert("Please enter a name for the link.");
+                return;
+            }
+            savedName = linkName;
+
+            // Add the link to the table immediately after saving
+            addToTable();
+
+            // Hide the name input box
+            document.querySelector(".name-box").style.display = "none";
+            document.getElementById("linkName").value = ""; // Clear the name input
+        }
+
+        function copyShortLink() {
+            var shortLinkElement = document.getElementById("shortLink");
+            if (shortLinkElement.innerText === "Shortened link will appear here") {
+                alert("No short link available to copy!");
+                return;
+            }
+            navigator.clipboard.writeText(shortLinkElement.href);
+            alert("Copied: " + shortLinkElement.href);
+
+            // Add to table after copying if not already saved
+            if (savedName === "") {
+                addToTable();
+            }
+        }
+
+        function addToTable() {
+            if (latestUserLink === "" || latestShortUrl === "") {
+                alert("No link to save. Please shorten a link first.");
+                return;
+            }
+
+            var tableBody = document.getElementById("linkTableBody");
+            var newRow = tableBody.insertRow();
+
+            // Insert cells in the new row
+            var cell1 = newRow.insertCell(0);
+            var cell2 = newRow.insertCell(1);
+            var cell3 = newRow.insertCell(2);
+            var cell4 = newRow.insertCell(3);
+            var cell5 = newRow.insertCell(4);
+            var cell6 = newRow.insertCell(5);
+
+            // Fill the cells with data
+            cell1.innerHTML = tableBody.rows.length; // Row number
+            cell2.innerHTML = savedName || "—"; // Use saved name or placeholder
+            cell3.innerHTML = `<a href="${latestUserLink}" target="_blank">${latestUserLink}</a>`; // FIXED: Clickable user link
+            cell4.innerHTML = `<a href="${latestShortUrl}" target="_blank">${latestShortUrl}</a>`; // Clickable short link
+            cell5.innerHTML = new Date().toISOString().split('T')[0]; // Current date
+            cell6.innerHTML = `<button onclick="copyLink('${latestShortUrl}')">Copy</button>`; // Copy button
+
+            // Reset name variable
+            savedName = "";
+        }
+
+        function copyLink(link) {
+            navigator.clipboard.writeText(link);
+            alert("Copied: " + link);
+        }
+    </script>
+
+</body>
+</html>
