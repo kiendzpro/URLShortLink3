@@ -45,7 +45,27 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
+// Check if HTTPS is properly configured
+if (app.Environment.IsDevelopment())
+{
+    // In development, use the developer exception page
+    app.UseDeveloperExceptionPage();
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "URL Shortener API v1");
+    });
+}
+else
+{
+    // In production, use HTTPS redirection, exception handler, and HSTS
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
+
+// Always use HTTPS redirection
 app.UseHttpsRedirection();
+
 app.UseStaticFiles();
 app.UseRouting();
 
@@ -53,13 +73,6 @@ app.UseRouting();
 app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
 app.UseAuthorization();
-
-// 🔹 Bật Swagger
-app.UseSwagger();
-app.UseSwaggerUI(c =>
-{
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "URL Shortener API v1");
-});
 
 // Map controllers
 app.MapControllerRoute(
